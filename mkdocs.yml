@@ -1,3 +1,29 @@
-site_name: My Docs
+site_name: Theory of Change
+
 theme:
   name: material
+  palette:
+
+    #light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+
+    #dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+nav:
+  - Home: toc.md
+  - Introduction to Social Impact and the Team: overview.md
+  - The Social Impact Model: model.md
+  - Phases: phases.md
+  - Examples: examples.md
+  - Term Definitions: definitions.md
