@@ -3,8 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (social-impact1.geoglows.docs)" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="2330d1f0-15a9-4e66-85dc-da3b4ee8fdd1" />
-  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (social-impact1.geoglows.docs)" project-jdk-type="Python SDK" />
 </project>
