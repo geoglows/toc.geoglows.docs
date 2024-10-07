@@ -6,7 +6,7 @@ theme:
 
     #light mode
     - scheme: default
-      primary: indigo
+      primary: green
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
@@ -15,7 +15,7 @@ theme:
 
     #dark mode
     - scheme: slate
-      primary: indigo
+      primary: pink
       accent: indigo
       toggle:
         icon: material/toggle-switch

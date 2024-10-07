@@ -32,15 +32,15 @@ This approach is divided into 4 phases:
 3. Implementation & Adaptation
 4. Expansion & Equity
 
-![Social Impact Model](images/ToC.png)
+![Social Impact Model](./visuals/social_impact_chart.png)
 
-Figure 2. Social Impact Cycle for Global Model Hydrology 
+Figure 2. Social Impact Model for Global Hydrology 
 
 The Social Impact Cycle for Global Model Hydrology is based on the slogan “Love the Problem, Not the Solution”. This allows change makers to turn their focus less on the solution, addressing the solution based on a deeper understanding of the problem by creating meaningful relationships with the community and focusing on their needs.
 
 Why "Love the Problem, Not the Solution"?
 
-![Love the Problem](love_the_prob.png)
+![Love the Problem](./visuals/love_the_prob.png)
 
 Figure 3. Love the Problem, Not the Solution
 
@@ -50,19 +50,19 @@ To love the problem more than the solution indicates loving the people more than
 
 Things rarely go right the first time they are tried. The first idea is seldom the best. Sometimes even the second, third, and fourth iterations aren’t quite right. This is why evolving interventions are an essential part of co-creation. The co-creation of a model attempts to maintain the long sustainability of the model and increase the impact of using it.
 
-![Hydroligical Model Example](.png)
+![Hydrological Model Example](./visuals/hydro_model_ex.png)
 
 When we set out to do something, big or small, the biggest thing that motivates us to push forward is the end goal in mind. Without it, we would have no guidance and may never accomplish the task at hand. When it comes to social impact, as we begin to gain an understanding for the problem, we tend to get impatient and want to fix this problem as quickly as we can. This is where understanding social impact becomes very important.
 
 ## Social Impact Cycle for Hydrology Modeling 
 
-![Social Impact Cycle for Hydrology Modeling](ToC.png)
+![Social Impact Cycle for Hydrology Modeling](./visuals/ToC.png)
 
 Figure 4. Social Impact Cycle for Hydrology Modeling
 
 Within each individual phase, there are additional steps in which you can constantly receive feedback and improve your process as you go.
 
-![Users](Users.png)
+![Users](./visuals/Users.png)
 
 Figure 5. Users
 

@@ -58,9 +58,9 @@ Rather than focusing on designing a new solution or testing your own ideas, you 
 
 ### **KEY SUMMARY OF THE SECTION**
 
-![Steps chart]
+![Steps chart](./visuals/5steps.png)
 
-![Phase I Model]
+![Phase I Model](./visuals/PHASE I.png)
 
 
 #### What will it be scored?
@@ -88,7 +88,7 @@ The collaborative design includes two steps: ecosystem map and logic model.
 
 To make ecosystem changes more systematic which includes identifying all of the key players, environmental conditions, and the relationships among them. They should define their organization’s ultimate intended impact and outline the steps they will take in order to achieve that impact, which is defining their Social Impact Cycle for Global Model Hydrology . Additionally, they should identify the various components of their ecosystem, including individuals, organizations, and environmental conditions that could influence their ability to effect sustainable change.
 
-![GEOGLOWS Ecosystem Map]
+![GEOGLOWS Ecosystem Map](./visuals/geoglows_ecosystem_map.png)
 
 Figure 6. GEOGLOWS Ecosystem Map
 
@@ -99,7 +99,7 @@ This visual helps identify the various relationships and dynamics within a syste
 
 A logic model is a visual representation of a Theory of Change. Typically, it illustrates the inputs, activities, and resulting outputs of an intervention. Logic models are widely used in impact-focused practices, though their format may vary between organizations. The most effective logic models are created through backward mapping.
 
-![GEOGLOWS Logic Model]
+![GEOGLOWS Logic Model](./visuals/logic_model_geoglows.png)
 
 Figure 7. GEOGLOWS Logic Model
 
@@ -107,7 +107,7 @@ This kind of model helps to clarify the goals of the porject, enhances communica
 
 ### **KEY SUMMARY OF THE SECTION**
 
-![Phase II Model]
+![Phase II Model](./visuals/PHASE II.png)
 
 ## **Phase III: Implementation and Adaptation**
 
@@ -143,10 +143,8 @@ The higher the score, the higher the positive impact of the GEOGLOWs Model, whil
 
 ### **KEY SUMMARY OF THE SECTION**
 
-Impact Evaluation: Monitor results using the Total Impact Index (TII).
 
-Adaptive Implementation: Execute and refine interventions based on feedback.
-
+![Phase III Summary](./visuals/phase3sum.png)
 ## **Phase IV: Expansion and Equity**
 
 more coming soon....
