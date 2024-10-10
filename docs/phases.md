@@ -60,8 +60,11 @@ Rather than focusing on designing a new solution or testing your own ideas, you 
 
 ![Steps chart](./visuals/5steps.png)
 
+Figure 6. Phase I Steps of System Assessment
+
 ![Phase I Model](./visuals/PHASE I.png)
 
+Figure 7. Phase I Summary
 
 #### What will it be scored?
 
@@ -75,6 +78,15 @@ In this phase, we will finalize our goal and propose a plan to best meet these g
 2. Collaborative Design
 
 ### **_Goal Setting_**
+
+Goal setting is the process of identifying specific objectives that need to be improved and figuring out how your organization can improve this.  We can break this down into 5 steps: 
+
+1. Specific - Is your goal clear and precise? 
+2. Measurable - How can you track the progress on your goal and will you be able to tell when the goal is achieved? 
+3. Achievable - Is this goal realistic and attainable given your constraints? 
+4. Relevant - Is this a meaningful goal that aligns with the broader objectives? 
+5. Time-bound - What is the deadline? 
+
 
 
 ### **_Collaborative Design_**
@@ -90,7 +102,7 @@ To make ecosystem changes more systematic which includes identifying all of the 
 
 ![GEOGLOWS Ecosystem Map](./visuals/geoglows_ecosystem_map.png)
 
-Figure 6. GEOGLOWS Ecosystem Map
+Figure 8. GEOGLOWS Ecosystem Map
 
 This visual helps identify the various relationships and dynamics within a system, helps to provide a holistic view, and can uncover opportunities or problems that might have gone unnoticed otherwise. 
 
@@ -101,13 +113,14 @@ A logic model is a visual representation of a Theory of Change. Typically, it il
 
 ![GEOGLOWS Logic Model](./visuals/logic_model_geoglows.png)
 
-Figure 7. GEOGLOWS Logic Model
+Figure 9. GEOGLOWS Logic Model
 
 This kind of model helps to clarify the goals of the porject, enhances communication among stakeholders, and can be a tool in tracking progress. 
 
 ### **KEY SUMMARY OF THE SECTION**
 
 ![Phase II Model](./visuals/PHASE II.png)
+Figure 10. Phase II Summary
 
 ## **Phase III: Implementation and Adaptation**
 
@@ -137,7 +150,7 @@ The Total Impact Index is a composite index that shows the impact related to the
 
 _Equation_:
 
-_Score_
+_Score_:
 
 The higher the score, the higher the positive impact of the GEOGLOWs Model, while still showing the room for improvement and helps to provide a plan to increase the impact. 
 
@@ -145,6 +158,9 @@ The higher the score, the higher the positive impact of the GEOGLOWs Model, whil
 
 
 ![Phase III Summary](./visuals/phase3sum.png)
+Figure 11. Phase III Summary
+
+
 ## **Phase IV: Expansion and Equity**
 
 more coming soon....

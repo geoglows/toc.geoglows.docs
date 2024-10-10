@@ -6,7 +6,7 @@ theme:
 
     #light mode
     - scheme: default
-      primary: green
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
@@ -15,13 +15,12 @@ theme:
 
     #dark mode
     - scheme: slate
-      primary: pink
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
 nav:
-  - Home: toc.md
   - Introduction to Social Impact and the Team: overview.md
   - The Social Impact Model: model.md
   - Phases: phases.md
