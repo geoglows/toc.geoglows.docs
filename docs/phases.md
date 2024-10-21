@@ -52,7 +52,11 @@ Negative consequences inspire us to do research that helps us to better understa
 
 ### **_Investigate Current Practices_**
 
-This includes asking yourself: - What is already being done to alleviate the suffering caused by this issue? - What are the current methods in focus? - How successful are current interventions?
+This includes asking yourself: 
+
+- What is already being done to alleviate the suffering caused by this issue? 
+- What are the current methods in focus? 
+- How successful are current interventions?
 
 Rather than focusing on designing a new solution or testing your own ideas, you should turn your focus to comparing notes with fellow change makers that have already spent time dedicated to tackling this issue. We need to examine what has and has not worked, as well as the experiences of those most impacted by the problem as well as those involved in its solution.
 
@@ -69,6 +73,87 @@ Figure 7. Phase I Summary
 #### What will it be scored?
 
 more information coming soon
+
+
+## Check your understanding 
+
+<!-- question 1 -->
+
+<details>
+
+<summary> 
+What is the most important component to identifying the problem?
+
+A. Having an easy solution that can be implemented right away
+B. Understanding the needs of the society and their social issues
+C. Explore a problem that has never been explored before
+D. Focusing on financial constraints and budget limitations
+E. Analyzing available technological solutions
+ </summary>
+<br>
+
+B. Understanding the needs of the society and their social issues
+
+</details>
+
+<!-- question 2 -->
+
+<details>
+
+<summary>
+Which of the following best describes the importance of establishing context in the assessment process?
+A. It helps to generate a list of potential solutions.
+B. It ensures that problems are framed in a way that makes them easier to address.
+C. It highlights the sociocultural, economic, and environmental factors that affect the problem at hand.
+D. It allows for the exclusion of certain stakeholders from the discussion.
+E. It solely focuses on the historical background of the issue.
+
+</summary>
+
+<br>
+C. It highlights the sociocultural, economic, and environmental factors that affect the problem at hand.
+
+</details>
+
+<!-- question 3 -->
+
+<details> 
+
+<summary>
+When assessing a social issue, why is it crucial to understand contributing factors?
+A. They can provide insight into the main causes of societal problems.
+B. They are often unrelated to the problem being addressed.
+C. They are not necessary for developing a practical solution.
+D. They only complicate the assessment process.
+E. They help to establish a timeline for intervention.
+
+</summary>
+
+<br>
+A. They can provide insight into the main causes of societal problems.
+
+</details>
+
+<!-- question 3 -->
+<details> 
+
+<summary>
+
+What is the purpose of investigating current practices when addressing a social issue?
+A. To determine the financial costs associated with new solutions
+B. To focus solely on developing new solutions without considering past efforts
+C. To learn from existing interventions and understand what has or hasn’t worked
+D. To create a detailed report on stakeholders involved in the problem
+E. To exclude the experiences of those affected by the issue
+
+</summary>
+
+<br>
+
+C. To learn from existing interventions and understand what has or hasn’t worked
+
+</details>
+
 
 ## **Phase II: Planning and Design**
 
