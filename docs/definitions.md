@@ -1,3 +1,15 @@
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+      pageLanguage: 'en',
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+    }, 'google_translate_element');
+  }
+</script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
 ## Output, Outcome, and Impact
 
 Output and outcome are not a regular part of most people’s vocabulary, but impact is. Impact can be a troublesome word for many who are new to the world of social problem-solving because the word impact can be used in various situations throughout everyday conversation. When describing what outputs, outcomes, and impact are, it's helpful to start with outputs, followed by outcomes, and then impact.

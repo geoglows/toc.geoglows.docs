@@ -1,3 +1,14 @@
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+      pageLanguage: 'en',
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+    }, 'google_translate_element');
+  }
+</script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 ## THE SOCIAL IMPACT MODEL FOR GLOBAL HYDROLOGICAL MODELS
 
 This involves actively involving local communities and stakeholders in the co-creation process, ensuring their needs and knowledge are integrated into the model. By doing so, the models can become more relevant, useful, and effective in addressing the specific hydrological challenges faced by different communities.
@@ -32,7 +43,7 @@ This approach is divided into 4 phases:
 3. Implementation & Adaptation
 4. Expansion & Equity
 
-![Social Impact Model](./visuals/social_impact_chart.png)
+![Social Impact Model](images/social_impact_chart.png)
 
 Figure 1. Social Impact Model for Global Hydrology 
 
@@ -40,7 +51,7 @@ The Social Impact Cycle for Global Model Hydrology is based on the slogan “Lov
 
 Why "Love the Problem, Not the Solution"?
 
-![Love the Problem](./visuals/love_the_prob.png)
+![Love the Problem](images/love_the_prob.png)
 
 Figure 2. Love the Problem, Not the Solution
 
@@ -50,20 +61,20 @@ To love the problem more than the solution indicates loving the people more than
 
 Things rarely go right the first time they are tried. The first idea is seldom the best. Sometimes even the second, third, and fourth iterations aren’t quite right. This is why evolving interventions are an essential part of co-creation. The co-creation of a model attempts to maintain the long sustainability of the model and increase the impact of using it.
 
-![Hydrological Model Example](./visuals/hydro_model_ex.png)
+![Hydrological Model Example (1).png](images2%2FHydrological%20Model%20Example%20%281%29.png)
 Figure 3. Hydrological Model Example 
 
 When we set out to do something, big or small, the biggest thing that motivates us to push forward is the end goal in mind. Without it, we would have no guidance and may never accomplish the task at hand. When it comes to social impact, as we begin to gain an understanding for the problem, we tend to get impatient and want to fix this problem as quickly as we can. This is where understanding social impact becomes very important.
 
 ## Social Impact Cycle for Hydrology Modeling 
 
-![Social Impact Cycle for Hydrology Modeling](./visuals/ToC.png)
+![Social Impact Cycle for Hydrology Modeling](images/ToC.png)
 
 Figure 4. Social Impact Cycle for Hydrology Modeling
 
 Within each individual phase, there are additional steps in which you can constantly receive feedback and improve your process as you go.
 
-![Users](./visuals/Users.png)
+![Users](images/Users.png)
 
 Figure 5. Users
 

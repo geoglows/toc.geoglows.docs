@@ -21,8 +21,17 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 nav:
-  - Introduction to Social Impact and the Team: overview.md
+  - Introduction to Social Impact and the Team: index.md
   - The Social Impact Model: model.md
-  - Phases: phases.md
+  - Phases:
+      - Phase I: phase1.md
+      - Phase II: phase2.md
+      - Phase III: phase3.md
+      - Phase IV: phase4.md
   - Examples: examples.md
   - Term Definitions: definitions.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.tabbed
+  - pymdownx.superfences
