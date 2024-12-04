@@ -30,8 +30,13 @@ nav:
       - Phase IV: phase4.md
   - Examples: examples.md
   - Term Definitions: definitions.md
+  - Frequently Asked Questions: questions.md
+
 
 markdown_extensions:
   - admonition
   - pymdownx.tabbed
   - pymdownx.superfences
+
+extra_css:
+  - assets/custom.css

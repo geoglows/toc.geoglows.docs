@@ -1,15 +1,18 @@
 <div id="google_translate_element"></div>
+
 <script type="text/javascript">
   function googleTranslateElementInit() {
-    new google.translate.TranslateElement({
-      pageLanguage: 'en',
-      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-    }, 'google_translate_element');
+    new google.translate.TranslateElement(
+      {
+        pageLanguage: 'en'
+      },
+      'google_translate_element'
+    );
   }
 </script>
-<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-## THE SOCIAL IMPACT MODEL FOR GLOBAL HYDROLOGICAL MODELS
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 
 This involves actively involving local communities and stakeholders in the co-creation process, ensuring their needs and knowledge are integrated into the model. By doing so, the models can become more relevant, useful, and effective in addressing the specific hydrological challenges faced by different communities.
 
@@ -30,7 +33,7 @@ To initiate this process, consider the following questions:
 
 The Social Impact Model for Hydrology Modeling will encompass two main directions, as illustrated in Figure 2. The initial phase of the Social Approach emphasizes establishing a deeper collaboration with National Hydrological Services (NHS) as key stakeholders, utilizing the GEOGLOWS model as the operational tool. Once the implementation and adaptation phases are completed, the NHS will take the lead in expanding and ensuring equitable use of the model.
 
-### **KEY SUMMARY OF THE SECTION**
+### **Key Summary of the Section**
 
  Theory of Change shows what needs to happen to achieve our goals. 
 
@@ -80,7 +83,7 @@ Figure 5. Users
 
 By approaching the Social Impact Cycle for Global Model Hydrology, we can make an effort to ensure that developers as implementers are involved in the Co-Creation.
 
-### **KEY SUMMARY OF THE SECTION**
+### **Key Summary of the Section**
 
 **Phases of the Social Impact Cycle for Hydrology Modeling**
 
