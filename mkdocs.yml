@@ -1,3 +1,42 @@
-site_name: My Docs
+site_name: Theory of Change
+
 theme:
   name: material
+  palette:
+
+    #light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+
+    #dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+nav:
+  - Introduction to Social Impact and the Team: index.md
+  - The Social Impact Model: model.md
+  - Phases:
+      - Phase I: phase1.md
+      - Phase II: phase2.md
+      - Phase III: phase3.md
+      - Phase IV: phase4.md
+  - Examples: examples.md
+  - Term Definitions: definitions.md
+  - Frequently Asked Questions: questions.md
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.tabbed
+  - pymdownx.superfences
+
+extra_css:
+  - assets/custom.css
