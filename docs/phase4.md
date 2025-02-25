@@ -14,7 +14,7 @@
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 
-## **Phase IV: Expansion and Equity**
+## **Phase IV: Expansion**
 
 ### **How can we scale up?**
 
@@ -31,5 +31,5 @@ Examples of these efforts include use cases from **Costa Rica** and **Ecuador**,
 
 ### **Key Summary of the Section**
 
-![Phase IV Summary](images2/Phase%20IV%20(1).png)
+![Phase IV Summary](images2/Copy of Phase IV (3).png)
 *Figure 13. Phase IV Summary*

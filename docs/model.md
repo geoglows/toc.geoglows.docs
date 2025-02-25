@@ -44,9 +44,9 @@ This approach is divided into 4 phases:
 1. Assessment
 2. Planning & Design
 3. Implementation & Adaptation
-4. Expansion & Equity
+4. Expansion
 
-![Social Impact Model](images/social_impact_chart.png)
+![Social Impact Model](images/Copy of Copy of Copy of Process.png)
 
 Figure 1. Social Impact Model for Global Hydrology 
 
@@ -71,7 +71,7 @@ When we set out to do something, big or small, the biggest thing that motivates 
 
 ## Social Impact Cycle for Hydrology Modeling 
 
-![Social Impact Cycle for Hydrology Modeling](images/ToC.png)
+![Social Impact Cycle for Hydrology Modeling](images/SOCIAL_CYCLE_graph (3).png)
 
 Figure 4. Social Impact Cycle for Hydrology Modeling
 
@@ -90,7 +90,7 @@ By approaching the Social Impact Cycle for Global Model Hydrology, we can make a
 1. Assessment
 2. Planning & Design
 3. Implementation & Adaptation
-4. Expansion & Equity
+4. Expansion
 
 
 
