@@ -41,7 +41,7 @@ The collaborative design includes two steps: ecosystem map and logic model.
 
 To make ecosystem changes more systematic, this includes identifying all of the key players, environmental conditions, and the relationships among them. Organizations should define their ultimate intended impact and outline the steps they will take to achieve that impact, which involves defining their Social Impact Cycle for Global Model Hydrology. Additionally, they should identify the various components of their ecosystem, including individuals, organizations, and environmental conditions that could influence their ability to effect sustainable change.
 
-![GEOGLOWS Ecosystem Map](phase2visuals/geoglows_ecosystem_map.png)
+![GEOGLOWS Ecosystem Map](phase2visuals/Ecosystem_Map_New_Version2025.png)
 
 *Figure 8. GEOGLOWS Ecosystem Map*
 
